@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Ec9gisKvAtI8L4N31Tf6sQ9hDobMWfR2f6hI1nSlnbI=",
+  "Source": "rmr-portal-api",
+  "BasePath": "_content/rmr-portal-api",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

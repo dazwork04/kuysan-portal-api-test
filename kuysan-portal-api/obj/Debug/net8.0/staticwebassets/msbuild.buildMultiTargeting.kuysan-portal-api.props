@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\kuysan-portal-api.props" />
+</Project>

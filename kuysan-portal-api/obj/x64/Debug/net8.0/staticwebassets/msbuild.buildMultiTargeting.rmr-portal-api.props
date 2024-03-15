@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\rmr-portal-api.props" />
+</Project>
